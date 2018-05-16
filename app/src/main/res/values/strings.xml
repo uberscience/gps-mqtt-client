@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">GPS MQTT CLIENT</string>
+    <string name="settings_menu_name">Настройки</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Настройки</string>
+    <string name="btn_connect">Подключится</string>
+    <string name="btn_disconnect">Отключится</string>
+    <string name="title_activity_maps">Карта</string>
+    <string name="title_history">История</string>
+</resources>
